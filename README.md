@@ -1,1 +1,6 @@
-# golang-100-day-of-code-
+# golang-100-day-of-code
+## Learn go with test
+- Day 1: Hello world
+- Day 2: Struct + pointers
+- Day 3: Maps
+- Day 4: Maps - continue
