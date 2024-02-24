@@ -4,3 +4,5 @@
 - Day 2: Struct + pointers
 - Day 3: Maps
 - Day 4: Maps - continue
+- Day 5: Http request 
+- Day 6: Database
