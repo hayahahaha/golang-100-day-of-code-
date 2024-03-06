@@ -6,5 +6,6 @@
 - Day 4: Maps - continue
 - Day 5: Http request 
 - Day 6: Database
-- Day 7: REST Api: List User
-- Day 8: REST Api: CRUD
+- Day 7: REST API: List User
+- Day 8: REST API: CRUD
+- Day 9: GENERICS
