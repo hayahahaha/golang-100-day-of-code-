@@ -1,12 +1,15 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"io"
+	"os"
+)
 
 func main() {
-	fmt.Printf("hello")
-
+	Greet(os.Stdout, "Bob")
 }
 
-func Greate(msg string) {
-	fmt.Printf(msg)
+func Greet(writer io.Writer, name string) {
+	fmt.Fprintf(writer, "Hello %s", name)
 }
